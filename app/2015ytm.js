@@ -142,7 +142,7 @@ window.addEventListener("storage", function(){
 localStorageChange();
 });
 
-APIbaseURL = "https://inv.tux.pizza/";
+APIbaseURL = "https://invidious.jing.rocks/";
 
 playerVideoId = "e";
 playerEmbedURL = "https://invidious.fi/embed/";
